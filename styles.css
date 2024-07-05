@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+#shoppingList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#shoppingList li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.purchased {
+    text-decoration: line-through;
+    background-color: #e0e0e0;
+}
+
+.editable {
+    display: none;
+}
