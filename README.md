@@ -10,7 +10,7 @@ This is an interactive shopping list application where users can add items, mark
 ## Installation
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/interactive-shopping_list_web
+   git clone https://github.com/your-username/interactive-shopping list
 
 
 2. Navigate to the project directory:
