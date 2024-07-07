@@ -36,9 +36,9 @@ To run this web application, your computer should meet the following requirement
 
 1. Clone the repository to your local machine:
    bash
-   git clone https://github.com/KiniBrown76/interactive-shopping-list.git
+   git clone 
 2. Navigate into the cloned directory:
-   bash
+   bash https://kinibrown76.github.io/inatactive-shopping-list/
   cd interactive-shopping-list
 
 ## How to Run
